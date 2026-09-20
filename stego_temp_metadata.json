@@ -1,0 +1,16 @@
+{
+  "algorithm": "canny",
+  "x_bits": 3,
+  "y_bits": 1,
+  "edge_params": {
+    "blur_ksize": [
+      5,
+      5
+    ],
+    "sigma": 1.2,
+    "th1": 80,
+    "th2": 160
+  },
+  "edge_map_file": "edge_map.png",
+  "original_image": "16077.jpg"
+}
