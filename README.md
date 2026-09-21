@@ -42,9 +42,9 @@ Khởi tạo bảng người dùng (users) phục vụ Login/Register.
 ```Bash
 py -u app_controller.py
 ```
+## 📁 Cấu trúc thư mục dự án
 
-📁 Cấu trúc thư mục dự án
-Plaintext
+```text
 ├── UI/                     # Giao diện PyQt6 (.ui, .py) & quản lý DB (database.py)
 ├── core/                   # Lõi thuật toán: edge_detection, stego_embed, core_metric
 ├── assets/                 # Tài nguyên hình ảnh / icon giao diện
