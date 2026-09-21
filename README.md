@@ -42,6 +42,7 @@ Khởi tạo bảng người dùng (users) phục vụ Login/Register.
 ```Bash
 py -u app_controller.py
 ```
+
 📁 Cấu trúc thư mục dự án
 Plaintext
 ├── UI/                     # Giao diện PyQt6 (.ui, .py) & quản lý DB (database.py)
